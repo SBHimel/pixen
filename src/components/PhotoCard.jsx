@@ -4,9 +4,10 @@ import { Button, Card, Chip, Separator } from '@heroui/react';
 import Image from 'next/image';
 import { FaHeart } from 'react-icons/fa';
 import { BiDownload } from 'react-icons/bi';
+import Link from 'next/link';
 
 const PhotoCard = ({photo}) => {
-    console.log(photo);
+   
     return (
         <Card className='border rounded-xl'>
             <div className=' relative w-full aspect-square'>
@@ -39,7 +40,7 @@ const PhotoCard = ({photo}) => {
             </div>
             </div>
 
-            <Button variant='outline' className={"w-full"}>View</Button>
+            <Link href={`/all-photos/${photo.id}`}><Button variant='outline' className={"w-full"}>View</Button></Link>
 
         </Card>
     );
