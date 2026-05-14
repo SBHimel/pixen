@@ -1,7 +1,7 @@
 # 📸 Pixen - Professional Photography Marketplace
 
 <p align="center">
-  <img width="800" alt="Pixen Banner" src="https://github.com/user-attachments/assets/a8112d03-d5bc-4fbf-8acc-2eb579e6381b" />
+  <img width="933" height="907" alt="Screenshot 2026-05-14 082937" src="https://github.com/user-attachments/assets/420668b4-a701-4700-8ec0-f30b8989abf9" />
 </p>
 
 Pixen is a high-end service-sharing platform designed for professional photographers and clients. It bridges the gap between artistic talent and those seeking premium photography services, offering a seamless, modern, and high-performance user experience.
